@@ -1,0 +1,2 @@
+username,fullname,password_hash
+adriano_lima,Adriano Lima da Silva,scrypt:32768:8:1$sbZ4qMmiOhn4xxuv$1a412a79dc1aff1280048af12068b3da2fbe19abf46feacc4c10bc38dbcab2566b1258c6de941720ecc4a68557b88afaff42d83d399344b517c61d579f51560b
